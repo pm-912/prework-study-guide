@@ -12,8 +12,6 @@ Not applicable.
 
 The study guide is intended to be a quick reference guide on the fundamentals of the four languages noted in the Descriptions. By accessing the code and console, one can see HTML, CSS, and Javascript at work in the page's design. The topics are easily readable and provide information on each subject.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
 ## Credits
 
 Not applicable.
